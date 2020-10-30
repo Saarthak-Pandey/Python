@@ -1,5 +1,4 @@
 What is compilation?
-3 minutes
 We previously said that source code must be compiled before it can run. In this unit, you'll work on understanding compilation a little better. You'll also learn how Python's compilation and execution differ from that of other traditional programming languages and execution models.
 
 What is compilation?
